@@ -1,0 +1,6 @@
+kon = -45
+if kon > 0:
+ print("kon is a positive number")
+else:
+ print("kon is a negetive number")
+ 
