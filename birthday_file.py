@@ -1,0 +1,5 @@
+birthday_date1 = float(input("enter the first birthday"))
+birthday_date2 = float(input("enter the second birthday"))
+birthday_date3 = float(input("enter the third birthday"))
+birthday_date4 = float(input("enter the fourth birthday"))
+birthday_date5 = float(input("enter the fifth birthday"))
